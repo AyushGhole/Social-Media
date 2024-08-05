@@ -1,0 +1,24 @@
+
+.carsd{ 
+   margin: 25px 55px; 
+     border: 2px solid grey; 
+      height: 270px; 
+       width: 15rem;
+}
+
+.card{ 
+  margin-top: 4.5rem;
+}
+
+.icon{
+   font-size: 1.6rem; 
+    font-weight: bold;
+}
+
+#anchor{ 
+  margin: 10px; 
+}
+
+.input{ 
+  width: 1rem;
+}
